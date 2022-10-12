@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayashreeJanani
-- 👀 I’m interested in ...Java, HTML, 
-- 🌱 I’m currently learning ...Angular JS
-- 💞️ I’m looking to collaborate on ... Springboot
+- 👀 I’m interested in ...Java, HTML, Angular JS, Angular
+- 🌱 I’m currently learning ...Angular
+- 💞️ I’m looking to collaborate on ... Springboot,Angular
 - 📫 How to reach me ...
 
 <!---
